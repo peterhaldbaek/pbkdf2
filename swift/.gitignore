@@ -1,0 +1,12 @@
+.DS_Store
+
+# XCode
+*.bak
+xcuserdata/
+project.xcworkspace
+*.xccheckout
+DerivedData
+.idea
+
+xcode
+*.log
